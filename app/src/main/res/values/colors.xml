@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_1">#B7ECB8</color>
+    <color name="purple_200">#64B5F6</color>
+    <color name="purple_500">#64B5F6</color>
+    <color name="purple_700">#64B5F6</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green_50">#f6fdf6</color>
+    <color name="green_100">#e9f9ea</color>
+    <color name="green_200">#dbf6dc</color>
+    <color name="green_300">#cdf2cd</color>
+    <color name="green_400">#c2efc3</color>
+    <color name="green_500">#b7ecb8</color>
+    <color name="green_600">#b0eab1</color>
+    <color name="green_700">#a7e7a8</color>
+    <color name="green_800">#9fe4a0</color>
+    <color name="green_900">#90df91</color>
+    <color name="green_A100">#ffffff</color>
+    <color name="green_A200">#ffffff</color>
+    <color name="green_A400">#ffffff</color>
+    <color name="green_A700">#f6fff6</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="primary">#64B5F6</color>
+    <color name="secondary">#BDBDBD</color>
+    <color name="accent">#81C784</color>
+    <color name="background">#DADADA</color>
+    <color name="textS">#757575</color>
+    <color name="textP">#FFFFFF</color>
+    <color name="highlight">#81C784</color>
+</resources>
